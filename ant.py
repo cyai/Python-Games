@@ -1,6 +1,7 @@
 """Ant, simple animation demo.
 
-Exercises
+Exercis
+es
 
 1. Wrap ant around screen boundaries.
 2. Make the ant leave a trail.
