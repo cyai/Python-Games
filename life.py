@@ -1,4 +1,5 @@
 """Game of Life simulation.
+yeva
 
 Conway's game of life is a classic cellular automation created in 1970 by John
 Conway. https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
